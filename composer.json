@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"arvindldots\\HelloWorld\\": "src/"}
+        "psr-4": {"ArvindLdots\\Coderepo\\": "src/"}
     },
     "require": {}
 }
